@@ -1,0 +1,35 @@
+{
+  "name": "rn-app-screen-preview-android",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.18",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-native": "0.71.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": false,
+  "description": "React Native Lib to enable/disable APP preview in Recent Tasks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek-dhayalan/rn-app-screen-preview-android.git"
+  },
+  "keywords": [
+    "app-preview"
+  ],
+  "author": "Vivek Dhayalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek-dhayalan/rn-app-screen-preview-android/issues"
+  },
+  "homepage": "https://github.com/vivek-dhayalan/rn-app-screen-preview-android#readme"
+}
